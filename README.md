@@ -42,10 +42,12 @@
 <p>
 :heavy_check_mark: https://exchange-proj.herokuapp.com/bbdc
 </p>
+
 > Ações do Itau (ITUB4.SA)
 <p>
 :heavy_check_mark: https://exchange-proj.herokuapp.com/itub
 </p>
+
 > Ações do Companhia de Transmissão de Energia Elétrica Paulista S.A. (TRPL4.SA)
 <p>
 :heavy_check_mark: https://exchange-proj.herokuapp.com/trpl
