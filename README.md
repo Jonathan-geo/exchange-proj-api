@@ -18,7 +18,6 @@
 
 :small_blue_diamond: [Arquitetura](#arquitetura)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
 ... 
 

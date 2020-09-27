@@ -8,17 +8,17 @@ import json
 
 
 bradesco = pdr.get_data_yahoo('BBDC4.SA')
-result = bradesco.to_json(orient="index", date_format='iso')
+result = bradesco.to_json(orient="table", date_format='iso')
 parsed = json.loads(result)
 
 #Itaú Unibanco Holding S.A. (ITUB4.SA)
 itau = pdr.get_data_yahoo('ITUB4.SA')
-result1 = itau.to_json(orient="index", date_format='iso')
+result1 = itau.to_json(orient="table", date_format='iso')
 parsed1 = json.loads(result1)
 
 #Companhia de Transmissão de Energia Elétrica Paulista S.A.
 cetep = pdr.get_data_yahoo('TRPL4.SA')
-result2 = cetep.to_json(orient="index", date_format='iso')
+result2 = cetep.to_json(orient="table", date_format='iso')
 parsed2 = json.loads(result2)
 
 
